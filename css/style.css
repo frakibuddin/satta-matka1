@@ -290,8 +290,6 @@ th {
   padding: 0 5px;
 }
 
-@media only screen and (max-width: 650px) {
-}
 @media only screen and (max-width: 600px) {
   html {
     font-size: 58%;
@@ -317,5 +315,8 @@ th {
     align-items: center;
     font-size: 12px;
     padding: 0 5px;
+  }
+  .second-table p {
+    font-size: 1.4rem;
   }
 }
